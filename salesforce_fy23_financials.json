@@ -1,0 +1,102 @@
+{
+    "company": "Salesforce",
+    "fiscal_year": "2023",
+    "financial_statements": {
+        "income_statement": {
+            "revenue": {
+                "value": 31100,
+                "unit": "million USD",
+                "yoy_change": "18%"
+            },
+            "gross_profit": {
+                "value": 22000,
+                "unit": "million USD"
+            },
+            "operating_income": {
+                "value": 4600,
+                "unit": "million USD",
+                "yoy_change": "10%"
+            },
+            "net_income": {
+                "value": 2080,
+                "unit": "million USD",
+                "yoy_change": "7%"
+            },
+            "earnings_per_share": {
+                "value": 2.1,
+                "unit": "USD per share"
+            }
+        },
+        "balance_sheet": {
+            "total_assets": {
+                "value": 97300,
+                "unit": "million USD",
+                "yoy_change": "12%"
+            },
+            "total_liabilities": {
+                "value": 29000,
+                "unit": "million USD"
+            },
+            "shareholders_equity": {
+                "value": 68300,
+                "unit": "million USD"
+            },
+            "long_term_debt": {
+                "value": 10500,
+                "unit": "million USD"
+            },
+            "cash_and_equivalents": {
+                "value": 12900,
+                "unit": "million USD"
+            }
+        },
+        "cash_flow_statement": {
+            "operating_cash_flow": {
+                "value": 7700,
+                "unit": "million USD",
+                "yoy_change": "15%"
+            },
+            "investing_cash_flow": {
+                "value": -4800,
+                "unit": "million USD"
+            },
+            "financing_cash_flow": {
+                "value": -3200,
+                "unit": "million USD"
+            },
+            "capital_expenditures": {
+                "value": -950,
+                "unit": "million USD"
+            },
+            "free_cash_flow": {
+                "value": 6750,
+                "unit": "million USD"
+            }
+        },
+        "key_ratios": {
+            "gross_margin": {
+                "value": 70.7,
+                "unit": "%"
+            },
+            "operating_margin": {
+                "value": 14.8,
+                "unit": "%"
+            },
+            "net_margin": {
+                "value": 6.7,
+                "unit": "%"
+            },
+            "debt_to_equity_ratio": {
+                "value": 0.15,
+                "unit": "ratio"
+            },
+            "return_on_equity": {
+                "value": 3.0,
+                "unit": "%"
+            }
+        }
+    },
+    "source": "Salesforce FY23 10-K Report",
+    "retrieval_date": "2025-03-14",
+    "notes": "All values are approximate, derived from the company's official financial statements."
+}
