@@ -1,6 +1,12 @@
 # app.py
 import streamlit as st
 import json
+import subprocess
+import sys
+
+subprocess.check_call([sys.executable, "-m", "pip", "install", "rank_bm25"])
+
+
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
