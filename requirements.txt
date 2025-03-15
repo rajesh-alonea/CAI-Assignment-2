@@ -4,3 +4,4 @@ scikit-learn
 faiss-cpu
 transformers
 streamlit
+rank_bm25
